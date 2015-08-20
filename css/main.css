@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    background: #fff url(/img/Hawaii_Beaches-28.jpg);
+}
+.jumbotron {
+    background-color: rgba(238, 238, 238, 0.35);
+}
+input[type="submit"] {
+    background-color: transparent;
+    border: 0;
+}
+
+.word_up {
+    font-size: 70px;
+    margin: 40px auto;
+    text-align: center;
+    color: #333;
+    width: 500px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
